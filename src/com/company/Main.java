@@ -14,7 +14,7 @@ public class Main {
       {
           for(int i = 0; i < 7; i++) {
               grid[j][i] = 0;
-              System.out.print(grid[j][i]);
+
           }
           System.out.println();
       }
